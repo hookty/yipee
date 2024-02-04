@@ -1,0 +1,8 @@
+total 36
+drwxrwxrwx 1 hook hook  4096 Feb  3 16:22 .
+drwxrwxrwx 1 hook hook  4096 Feb  3 16:07 ..
+-rwxrwxrwx 1 hook hook 12655 Feb  3 16:14 Screenshot 2024-02-03 161429.png
+-rwxrwxrwx 1 hook hook 16176 Feb  3 16:21 a.out
+-rwxrwxrwx 1 hook hook   901 Feb  3 16:13 lsw.c
+-rwxrwxrwx 1 hook hook   599 Feb  3 16:21 redtrout.c
+-rwxrwxrwx 1 hook hook     0 Feb  3 16:22 trout.txt
